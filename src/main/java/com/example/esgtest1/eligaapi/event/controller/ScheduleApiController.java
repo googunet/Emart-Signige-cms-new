@@ -10,6 +10,8 @@ public class ScheduleApiController {
 
         System.out.println("abcd");
 
+        System.out.println("cccc");
+
         return "index";
     }
 }
