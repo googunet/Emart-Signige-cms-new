@@ -12,6 +12,8 @@ public class ScheduleApiController {
 
         System.out.println("cccc");
 
+        System.out.println("dddd");
+
         return "index";
     }
 }
