@@ -1,5 +1,5 @@
 <html>
 <body>
-    <p>Hello world!!aa</p>
+    <p>Hello world!! (WEB-INF/views/index.jsp)</p>
 </body>
 </html>

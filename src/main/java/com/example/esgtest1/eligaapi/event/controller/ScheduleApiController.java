@@ -7,6 +7,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class ScheduleApiController {
     @RequestMapping(value = "/")
     public String main() {
+
+        System.out.println("abcd");
+
+        System.out.println("cccc");
+
+        System.out.println("dddd");
+
         return "index";
     }
 }
